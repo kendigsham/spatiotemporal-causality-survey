@@ -1,0 +1,23 @@
+title,first_author,year,level,doi
+Matched wake analysis: Finding causal relationships in spatiotemporal event data,Sebastian Schutte,2014,2,10.1016/j.polgeo.2014.03.001
+A Gaussian Bayesian Model to Identify Spatiotemporal Causalities for Air Pollution based on Urban Big Data,Julie Yixuan Zhu,2016,2,10.1109/infcomw.2016.7562036
+An Attention-Based Model for Learning Dynamic Interaction Networks,Sandro Cavallari,2019,2,10.1109/ijcnn.2019.8852191
+Online Topology Identification From Vector Autoregressive Time Series,Bakht Zaman,2021,3,10.1109/tsp.2020.3042940
+Estimating intervention effects on infectious disease control: The effect of community mobility reduction on Coronavirus spread,Andrew Giffin,2022,3,10.1016/j.spasta.2022.100711
+Causal inference with spatio-temporal data: Estimating the effects of airstrikes on insurgent violence in Iraq,Georgia Papadogeorgou,2022,3,10.1111/rssb.12548
+STCD: A Spatio-Temporal Causal Discovery Framework for Hydrological Systems,Paras Sheth,2022,2,10.1109/bigdata55660.2022.10020845
+Toward Causal Inference for Spatio-Temporal Data: Conflict and Forest Loss in Colombia,Rune Christiansen,2022,3,10.1080/01621459.2021.2013241
+Robust Event Forecasting with Spatiotemporal Confounder Learning,Songgaojun Deng,2022,2,10.1145/3534678.3539427
+A spatiotemporal stochastic climate model for benchmarking causal discovery methods for teleconnections,Xavier-Andoni Tibau,2022,2,10.1017/eds.2022.11
+A Multi-Agent Reinforcement Learning Framework for Off-Policy Evaluation in Two-sided Markets,Chengchun Shi,2023,3,10.1214/22-aoas1700
+Causal Effect Estimation on Hierarchical Spatial Graph Data,Koh Takeuchi,2023,3,10.1145/3580305.3599269
+CausalSE: Understanding Varied Spatial Effects with Missing Data Toward Adding New Bike-sharing Stations,Qianru Wang,2023,3,10.1145/3536427
+Causality-Aware Spatiotemporal Graph Neural Networks for Spatiotemporal Time Series Imputation,Baoyu Jing,2024,2,10.1145/3627673.3679642
+A credible traffic prediction method based on self-supervised causal discovery,Dan Wang,2024,2,10.1007/s11432-023-3899-1
+Data-driven dimensionality reduction and causal inference for spatiotemporal climate fields,Fabrizio Falasca,2024,3,10.1103/physreve.109.044202
+Estimating Direct and Indirect Causal Effects of Spatiotemporal Interventions in Presence of Spatial Interference,Sahara Ali,2024,3,10.1007/978-3-031-70352-2_13
+Policy evaluation for temporal and/or spatial dependent experiments,Shikai Luo,2024,3,10.1093/jrsssb/qkad136
+Spatio-temporal quasi-experimental methods for rare disease outcomes: the impact of reformulated gasoline on childhood haematologic cancer,Sofia L. Vega,2024,3,10.1093/jrsssa/qnae109
+Evaluating Dynamic Conditional Quantile Treatment Effects with Applications in Ridesharing,Ting Li,2024,3,10.1080/01621459.2024.2314316
+Estimating and Mitigating the Congestion Effect of Curbside Pick-ups and Drop-offs: A Causal Inference Approach,Xiaohui Liu,2024,2,10.1287/trsc.2022.0195
+Carbon emission causal discovery and multi-step forecasting using spatiotemporal information,Xiaoyan Li,2024,3,10.1016/j.ins.2024.120372
