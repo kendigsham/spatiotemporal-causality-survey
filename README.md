@@ -24,7 +24,7 @@ lists of papers to screen.
 ## Notes
 
 - Some steps were done by hand and are not in the code: checking
-  near-duplicate titles, removing one further duplicate, filling in
+  near-duplicate titles, removing duplicate, filling in
   missing abstracts, and the screening itself.
 
 ## License
